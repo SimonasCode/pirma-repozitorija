@@ -1,3 +1,3 @@
 # pirma-repozitorija
 Tekstas
-Pridedu naujus zodzius: "labas labas"
+Pridedu naujus zodzius: "labas labas labas"
